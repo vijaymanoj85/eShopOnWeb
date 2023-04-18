@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-VJ
   LOCATION: "eastasia"
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 030517bc-59be-4823-a716-3ec4b1ce7fc5
+  SUBSCRIPTION-ID: "030517bc-59be-4823-a716-3ec4b1ce7fc5"
   WEBAPP-NAME: az400-webapp-VJ
 
 
